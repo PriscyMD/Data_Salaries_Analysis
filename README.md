@@ -1,5 +1,7 @@
 # Data_Salaries_Analysis
 
+- Contributors: 
+
 ## Description:
 
 This dataset provides comprehensive insights into data science job salaries spanning from 2020 to 2024. It encompasses various dimensions of employment, including experience levels, job titles, employment types, and company characteristics. With this rich dataset, analysts can delve into salary trends, discern patterns across different demographics, and gain valuable insights into the evolving landscape of data science compensation.
