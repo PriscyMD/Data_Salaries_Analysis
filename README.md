@@ -1,6 +1,10 @@
 # Data_Salaries_Analysis
 
-- Contributors: 
+## Contributors:
+- Starkilled1 (Javier Alarcon Velazco)
+- eugeniocez (Eugenio Castillo)
+- oscar-tlacuilo (Oscar Tlacuilo)
+- PriscyMD (Priscila Elieth Matus Díaz)
 
 ## Description:
 
